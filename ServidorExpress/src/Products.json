@@ -1,0 +1,47 @@
+[
+	{
+		"title": "Pinza",
+		"description": "BlackJack",
+		"price": 3500,
+		"thumbnail": "SinImagen",
+		"code": "abc123",
+		"stock": 20,
+		"id": 1
+	},
+	{
+		"title": "Pinza",
+		"description": "BlackJack",
+		"price": 3500,
+		"thumbnail": "SinImagen",
+		"code": "abc124",
+		"stock": 20,
+		"id": 2
+	},
+	{
+		"title": "Pinza",
+		"description": "BlackJack",
+		"price": 3500,
+		"thumbnail": "SinImagen",
+		"code": "abc125",
+		"stock": 20,
+		"id": 3
+	},
+	{
+		"title": "Pinza",
+		"description": "BlackJack",
+		"price": 3500,
+		"thumbnail": "SinImagen",
+		"code": "abc126",
+		"stock": 20,
+		"id": 4
+	},
+	{
+		"title": "Pinza",
+		"description": "BlackJack",
+		"price": 3500,
+		"thumbnail": "SinImagen",
+		"code": "abc127",
+		"stock": 20,
+		"id": 5
+	}
+]
